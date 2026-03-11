@@ -1,9 +1,8 @@
 numpy
 pandas
 matplotlib
-scikit-learn
 jupyter
-ipykernel==7.2.0
-ipython==9.11.0
+ipykernel
+ipython
 seaborn
 pandas
